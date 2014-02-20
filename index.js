@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var delegate = require('delegate');
-var url = require('url');
+var delegate = require('component-delegate');
+var url = require('component-url');
 
 /**
  * Handle link delegation on `el` or the document,
